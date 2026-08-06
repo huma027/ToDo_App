@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "decode lab tast completion",
+        "completed": false,
+        "priority": "MED",
+        "category": "General"
+    },
+    {
+        "id": 2,
+        "title": "Finish Python assignment",
+        "category": "General",
+        "priority": "HIGH",
+        "completed": false,
+        "created_at": "2026-08-06 14:19"
+    }
+]
