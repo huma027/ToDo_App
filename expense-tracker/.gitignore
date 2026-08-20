@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Generated at runtime by expense_tracker_pro.py
+expense_log.csv
+
+# Editor / OS clutter
+.DS_Store
+.vscode/
+.idea/
